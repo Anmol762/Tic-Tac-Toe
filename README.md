@@ -17,4 +17,4 @@ CSS
 JavaScript
 
 
-<img width="1144" height="543" alt="Screenshot 2026-05-15 at 01 39 19" src="https://github.com/user-attachments/assets/c1506a15-fc9d-4ae8-8d03-e796267bb6bb" />
+
